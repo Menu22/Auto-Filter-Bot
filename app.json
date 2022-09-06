@@ -8,9 +8,9 @@
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "website": "https://TroJanzHEX.me",
+    "website": "https://Menu22.me",
     "repository": "https://github.com/Menu22/Auto-Filter-Bot",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "success_url": "https://telegram.dog/Menu22",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
